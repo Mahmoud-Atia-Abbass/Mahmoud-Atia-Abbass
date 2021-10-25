@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmoud-Atia
+- 👋 Hi, I’m @Mahmoud-Atia-Abbass
 - 👀 I’m interested in building Front end stuff
 - 🌱 I’m currently learning Grokking Algorithms by Aditya Bhargava
 - 💞️ I’m looking to collaborate on Javascript projects
